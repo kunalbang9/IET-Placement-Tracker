@@ -13,7 +13,6 @@ const SocialLinks = () => {
           >
             <Linkedin size={24} />
           </motion.a>
-       </motion.a>
            <motion.a
             href="https://github.com/kunalbang9/IET-Placement-Tracker/"
             target="_blank"
