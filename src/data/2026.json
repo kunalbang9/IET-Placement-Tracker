@@ -328,26 +328,26 @@
     "Job Role": "SDE",
     "Eligible Batches": "CS/IT/ETC",
     "CGPA": 8,
-    "CTC (in LPA)": "-",
+    "CTC (in LPA)": "12+",
     "Type of Role": "Intern+FTE",
     "Duration of Internship": "6 Months",
     "Compensation in Internship": 45000,
-    "Total Offers": "Process Ongoing",
-    "Hiring Process": "-"
+      "Total Offers": "4",
+  "Hiring Process": "Offline Coding Round (3 DSA questions), Technical Interview, HR Interview. Focus: Strong in DSA, problem-solving, and core fundamentals"
   },
   {
     "S.No.": 25,
-    "Date": "14 September 2025",
-    "Company": "Infosys",
-    "Job Role": "Systems Engineer",
-    "Eligible Batches": "All",
-    "CGPA": "6.5",
-    "CTC (in LPA)": 3.6,
-    "Type of Role": "FTE",
-    "Duration of Internship": "-",
-    "Compensation in Internship": "-",
-    "Total Offers": "Process Ongoing",
-    "Hiring Process": "-"
+  "Date": "14 September 2025",
+  "Company": "Infosys",
+  "Job Role": "Systems Engineer",
+  "Eligible Batches": "All",
+  "CGPA": "6.5",
+  "CTC (in LPA)": 3.6,
+  "Type of Role": "FTE",
+  "Duration of Internship": "-",
+  "Compensation in Internship": "-",
+  "Total Offers": "74",
+  "Hiring Process": "Aptitude & Technical Round (no coding questions), followed by Technical Interview. Focus: Basics, Resume, and Communication Skills"
   },
   {
     "S.No.": 26,
@@ -375,7 +375,7 @@
     "Duration of Internship": "-",
     "Compensation in Internship": "-",
     "Total Offers": "Process Ongoing",
-    "Hiring Process": "Communication Assessment, Final Round (MCQs + Coding + Essay + Games)"
+    "Hiring Process": "Communication Assessment, Final Round (MCQs + Coding + Essay + Games) and Techno managerial Interview"
   },
   {
     "S.No.": 28,
@@ -390,5 +390,20 @@
     "Compensation in Internship": "-",
     "Total Offers": "Process Ongoing",
     "Hiring Process": "-"
-  }
+  },
+  {
+  "S.No.": 29,
+  "Date": "10 October 2025",
+  "Company": "Questkart",
+  "Job Role": "Software Engineer (AI Developer, Data Engineer, Analytics Engineer)",
+  "Eligible Batches": "CS/IT",
+  "CGPA": "8.5",
+  "CTC (in LPA)": "8",
+  "Type of Role": "Intern+FTE",
+  "Duration of Internship": "6 Months (from 2 January 2026)",
+  "Compensation in Internship": 15000,
+  "Total Offers": "3",
+  "Hiring Process": "Offline Pen-Paper Aptitude Test, followed by Technical + HR Interview. Focus: Resume, Understanding of Core Concepts, Communication, and Easy–Medium DSA"
+}
+
 ]
