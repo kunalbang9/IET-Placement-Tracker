@@ -115,15 +115,15 @@
     "S.No.": 9,
     "Date": "17 June 2025",
     "Company": "INFOSYS-HackWithInfy",
-    "Job Role": "Systems Engineer, Digital Specialist, Power Programmer",
+    "Job Role": "Systems Engineer, DSE, SPL1",
     "Eligible Batches": "All",
     "CGPA": 7,
-    "CTC (in LPA)": "3.6/6.5/9.5",
+    "CTC (in LPA)": "3.6/6.5/10+100k(bonus)",
     "Type of Role": "FTE",
     "Duration of Internship": "-",
     "Compensation in Internship": "-",
-    "Total Offers": "2 (Digital Specialist) and 3 (Power Programmer)",
-    "Hiring Process": "Coding Round (3 Hard questions, 3 hours), Technical Interview 1 (solve a medium-hard DSA on spot), HR Interview"
+    "Total Offers": "2 (DSE) and 3 (SPL1)",
+    "Hiring Process": "Coding Round (3 Hard questions, 3 hours), Technical Interviews (2) (solve a medium-hard DSA on spot), HR Interview"
   },
   {
     "S.No.": 10,
@@ -480,7 +480,7 @@
   "S.No.": 35,
   "Date": "17 November 2025",
   "Company": "Infosys",
-  "Job Role": "SPL3 / SPL2 / SPL1 / DSE (Trainee)",
+  "Job Role": "SPL3 / SPL2 / SPL1 / DSE",
   "Eligible Batches": "All",
   "CGPA": 6.5,
   "CTC (in LPA)": "DSE: 6.25 + 75k, SPL1: 10 + 100k, SPL2: 16, SPL3: 21",
@@ -497,7 +497,7 @@
   "Job Role": "Trainee Decision Scientist-1",
   "Eligible Batches": "All",
   "CGPA": 7,
-  "CTC (in LPA)": "40 over 4 years (5, 5, 6.5, 12.5, 16)",
+  "CTC (in LPA)": "40 over 4 years (5, 6.5, 12.5, 16)",
   "Type of Role": "FTE",
   "Duration of Internship": "6 Months (Probation)",
   "Compensation in Internship": "-",
@@ -552,12 +552,12 @@
   "Company": "GammaEdge",
   "Job Role": "-",
   "Eligible Batches": "All",
-  "CGPA": "-",
-  "CTC (in LPA)": "5.5",
+  "CGPA": "6",
+  "CTC (in LPA)": "3.5-5.5",
   "Type of Role": "FTE",
   "Duration of Internship": "-",
   "Compensation in Internship": "-",
-  "Total Offers": "-",
+  "Total Offers": "Process Ongoing",
   "Hiring Process": "Process Ongoing"
 }
 ]
