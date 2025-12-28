@@ -416,7 +416,7 @@
   "Type of Role": "Intern+FTE",
   "Duration of Internship": "-",
   "Compensation in Internship": "-",
-  "Total Offers": "Interviews Ongoing",
+  "Total Offers": "11(BTSA) & 6(DAA)",
   "Hiring Process": "Online Aptitude and Communication Assessment (Remote), followed by On-campus Case Study / Technical Round and Behavioral Interview"
 },
   {
@@ -445,7 +445,7 @@
   "Type of Role": "FTE",
   "Duration of Internship": "6 Months (Probation)",
   "Compensation in Internship": 10000,
-  "Total Offers": "2",
+  "Total Offers": 2,
   "Hiring Process": "Offline Written Assessment, followed by On-site Technical + HR Interviews. Focus: Python, Backend Development, Medium DSA, and OOPs"
 },
   {
@@ -501,7 +501,7 @@
   "Type of Role": "FTE",
   "Duration of Internship": "6 Months (Probation)",
   "Compensation in Internship": "-",
-  "Total Offers": "7",
+  "Total Offers": 7,
   "Hiring Process": "Aptitude Test, followed by Bot Interview and Final HR Interview. Focus: Communication, Resume, and Technical Fundamentals"
 },
 {
@@ -557,7 +557,7 @@
   "Type of Role": "FTE",
   "Duration of Internship": "-",
   "Compensation in Internship": "-",
-  "Total Offers": "Process Ongoing",
-  "Hiring Process": "Process Ongoing"
+  "Total Offers": 7,
+  "Hiring Process": "Written Test (Aptitude + Coding), followed by Final Interviews. Focus: Basic DSA, Core SQL, and Communication Skills"
 }
 ]
