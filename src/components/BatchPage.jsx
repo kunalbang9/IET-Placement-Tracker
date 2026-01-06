@@ -105,10 +105,7 @@ export default function BatchPage() {
         </div>
       </div>
 
-      <div className="flex flex-row items-center gap-2 scroll-arrow absolute top-[50%]  bg-black/30 right-[60px] border-2 border-white/30 rounded-full p-3 px-5">
-        <ChevronsLeftRightEllipsis />
-        <span className='hidden md:block text-sm'>scroll</span>
-      </div>
+    
 
       <main className="flex-grow p-4 md:p-8">
 
@@ -125,6 +122,10 @@ export default function BatchPage() {
         </div>
 
         <div className="overflow-x-auto relative">
+          <div className="flex flex-row items-center gap-2 scroll-arrow absolute top-[50%]  bg-black/30 right-[60px] border-2 border-white/30 rounded-full p-3 px-5">
+        <ChevronsLeftRightEllipsis />
+        <span className='hidden md:block text-sm'>scroll</span>
+      </div>
             <table className="min-w-full bg-white bg-opacity-10 rounded-lg">
               <thead className="bg-blue-900 sticky top-0 z-10">
                 <tr>
