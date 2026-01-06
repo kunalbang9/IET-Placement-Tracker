@@ -114,7 +114,7 @@ export default function BatchPage() {
 
         <div className="mb-6 flex justify-between items-center">
           <h1 className='text-[10px] w-1/2 md:w-full md:text-lg font-poppins tracking-wide text-gray-100 '>
-            Disclaimer: IET DAVV Placement Tracker v1.0 displays placement data for the 2026 batch, updated till October 2025. Future versions will include newer data and additional features.
+            Disclaimer: IET DAVV Placement Tracker v1.0 displays placement data for the 2026 batch, updated till 6th January 2026. Future versions will include newer data and additional features.
           </h1>
           <button
             onClick={() => dispatch(clearFilters())}
@@ -125,7 +125,7 @@ export default function BatchPage() {
         </div>
 
         <div className="overflow-x-auto relative">
-          <div className="max-h-[calc(100vh-120px)] overflow-y-auto"> 
+         <div className="max-h-[65vh] md:max-h-[calc(100vh-120px)] overflow-y-auto">
             <table className="min-w-full bg-white bg-opacity-10 rounded-lg">
               <thead className="bg-blue-900 sticky top-0 z-10">
                 <tr>
