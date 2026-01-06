@@ -105,13 +105,16 @@ export default function BatchPage() {
         </div>
       </div>
 
-    
+      <div className="flex flex-row items-center gap-2 scroll-arrow absolute top-[50%]  bg-black/30 right-[60px] border-2 border-white/30 rounded-full p-3 px-5">
+        <ChevronsLeftRightEllipsis />
+        <span className='hidden md:block text-sm'>scroll</span>
+      </div>
 
       <main className="flex-grow p-4 md:p-8">
 
         <div className="mb-6 flex justify-between items-center">
           <h1 className='text-[10px] w-1/2 md:w-full md:text-lg font-poppins tracking-wide text-gray-100 '>
-            Disclaimer: IET DAVV Placement Tracker v1.0 displays placement data for the 2026 batch, updated till 6th January 2026. Future versions will include newer data and additional features.
+            IET DAVV Placement Data for the 2026 batch, updated till 6th January 2026.
           </h1>
           <button
             onClick={() => dispatch(clearFilters())}
@@ -122,10 +125,7 @@ export default function BatchPage() {
         </div>
 
         <div className="overflow-x-auto relative">
-<div className="flex flex-row items-center gap-2 scroll-arrow absolute top-4 right-6 bg-black/30 border-2 border-white/30 rounded-full p-3 px-5 z-20">
-  <ChevronsLeftRightEllipsis />
-  <span className="hidden md:block text-sm">scroll</span>
-</div>
+          <div className="h-[calc(100vh-160px)] overflow-y-auto">
             <table className="min-w-full bg-white bg-opacity-10 rounded-lg">
               <thead className="bg-blue-900 sticky top-0 z-10">
                 <tr>
@@ -191,6 +191,7 @@ export default function BatchPage() {
                 ))}
               </tbody>
             </table>
+          </div>
         </div>
 
       </main>
