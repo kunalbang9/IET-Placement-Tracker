@@ -125,7 +125,7 @@ export default function BatchPage() {
         </div>
 
         <div className="overflow-x-auto relative">
-          <div className="max-h-[calc(100vh-200px)] overflow-y-auto"> 
+          <div className="max-h-[calc(100vh-120px)] overflow-y-auto"> 
             <table className="min-w-full bg-white bg-opacity-10 rounded-lg">
               <thead className="bg-blue-900 sticky top-0 z-10">
                 <tr>
