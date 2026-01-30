@@ -24,24 +24,24 @@ export default function App() {
 
           <main className="my-6 md:my-12 mt-6 flex-grow flex flex-col items-center justify-center text-center px-4">
             {/* Heading */}
-            <motion.h1
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5 }}
-              className="text-3xl md:text-6xl font-bold mb-3 text-white"
-            >
-              IET DAVV Placement Tracker
-            </motion.h1>
+           <motion.h1
+  initial={{ opacity: 0, y: -20 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.5 }}
+  className="text-3xl md:text-6xl font-bold mb-3 text-white"
+>
+  IET DAVV Placements
+</motion.h1>
 
             {/* Sub-Heading */}
             <motion.p
-              initial={{ opacity: 0, y: -20 }}
-              animate={{ opacity: 1, y: 0 }}
-              transition={{ duration: 0.5, delay: 0.2 }}
-              className="text-lg md:text-lg mb-2 text-blue-100 leading-tight"
-            >
-              IET DAVV&apos;s Placement Tracker – 2026 Batch Onwards
-            </motion.p>
+  initial={{ opacity: 0, y: -20 }}
+  animate={{ opacity: 1, y: 0 }}
+  transition={{ duration: 0.5, delay: 0.2 }}
+  className="text-lg md:text-lg mb-2 text-blue-100 leading-tight"
+>
+  Company-wise IET DAVV Indore Placement Data — 2026 Batch Onwards
+</motion.p>
                     
             {/* Improved Batch Links */}
             <div className="mt-8 md:mt-12 w-full flex flex-col sm:flex-row items-center gap-5 justify-center">
