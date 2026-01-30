@@ -3,35 +3,101 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="google-site-verification" content="8qLWKSSYrHadB4ozGhfoJcFvUZEKleGGFWdA4cY3o5c" />
-   <link rel="icon" type="image/png" href="/favicon.png" />
-<link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="shortcut icon" href="/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>IET DAVV Placement Tracker</title>
+
+    <!-- SEO-optimized title -->
+    <title>IET DAVV Placements | Company-wise Placement Data & Hiring Process</title>
+
     <style>
-      @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+      @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900&display=swap');
+
       body {
         -webkit-user-select: none; /* Safari */
         -moz-user-select: none; /* Firefox */
         -ms-user-select: none; /* Internet Explorer/Edge */
         user-select: none; /* Non-prefixed version */
+        font-family: 'Poppins', sans-serif;
+      }
+
+      /* Hidden SEO content: crawlable but not visible */
+      .seo-hidden {
+        position: absolute;
+        left: -9999px;
+        top: auto;
+        width: 1px;
+        height: 1px;
+        overflow: hidden;
       }
     </style>
+
     <script>
       document.addEventListener('contextmenu', function(e) {
-        e.preventDefault(); // Disable right-click context menu
+        e.preventDefault();
       });
 
       document.addEventListener('keydown', function(e) {
-        // Disable Ctrl+C, Ctrl+X, Ctrl+V
         if (e.ctrlKey && (e.key === 'c' || e.key === 'x' || e.key === 'v')) {
           e.preventDefault();
         }
       });
     </script>
-    <meta property="og:title" content="Placement Tracker IET DAVV">
-    <meta property="og:type" content="website">
+
+    <!-- Open Graph -->
+    <meta property="og:title" content="IET DAVV Placements | Company-wise Placement Data" />
+    <meta property="og:type" content="website" />
   </head>
+
   <body>
+    <!-- Hidden but SEO-rich content -->
+    <main class="seo-hidden">
+      <h1>IET DAVV Placements</h1>
+
+      <p>
+        This page provides detailed, company-wise on-campus placement data for
+        IET DAVV Indore. The content focuses on IET DAVV placements, including
+        placement drives conducted at the Institute of Engineering and Technology,
+        DAVV. Students commonly search for DAVV IET placements and IET DAVV Indore
+        placements to understand how campus recruitment works at the institute.
+      </p>
+
+      <h2>About IET DAVV Indore</h2>
+      <p>
+        IET DAVV Indore is a constituent engineering institute under Devi Ahilya
+        Vishwavidyalaya (DAVV). The institute offers undergraduate and postgraduate
+        engineering programs and conducts centralized on-campus placements every
+        academic year for eligible students.
+      </p>
+
+      <h2>IET DAVV Placement Data – Company-wise Records</h2>
+      <p>
+        This page displays IET DAVV placement data in a chronological and
+        company-wise format. Each placement drive record typically includes the
+        date of the drive, company name, eligible branches, minimum CGPA criteria,
+        offered CTC, role type such as Intern or Full-Time Employment, number of
+        offers made, and selection outcomes.
+      </p>
+
+      <h2>IET DAVV Latest Placements and Hiring Process</h2>
+      <p>
+        Information related to IET DAVV latest placements is updated based on
+        on-campus recruitment drives. Where available, detailed hiring processes
+        are documented, including online assessments, coding rounds, SQL-based
+        tests, aptitude evaluations, technical interviews, case study rounds, and
+        HR interviews, as reported by students.
+      </p>
+
+      <h2>Purpose of This IET DAVV Placements Page</h2>
+      <p>
+        The purpose of maintaining this IET DAVV placements page is to provide a
+        structured, transparent, and reliable reference for students preparing
+        for placements at IET DAVV Indore, instead of relying solely on static
+        reports or unofficial sources.
+      </p>
+    </main>
+
+    <!-- Actual React app -->
     <div id="root"></div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
