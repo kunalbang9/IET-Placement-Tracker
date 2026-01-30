@@ -113,9 +113,9 @@ export default function BatchPage() {
       <main className="flex-grow p-4 md:p-8">
 
         <div className="mb-6 flex justify-between items-center">
-          <h1 className='text-[10px] w-1/2 md:w-full md:text-lg font-poppins tracking-wide text-gray-100 '>
-            IET DAVV Placement Data for the 2026 batch, updated till 6th January 2026.
-          </h1>
+        <h1 className='text-[10px] w-1/2 md:w-full md:text-lg font-poppins tracking-wide text-gray-100'>
+  Company-wise IET DAVV Indore Placement Data for the {batch} Batch
+</h1>
           <button
             onClick={() => dispatch(clearFilters())}
             className="bg-red-500 px-4 py-2 w-auto text-nowrap rounded-md hover:bg-red-700 transition-colors"
